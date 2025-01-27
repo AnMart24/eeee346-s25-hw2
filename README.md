@@ -66,4 +66,4 @@ g++ -o main *.cpp *.h
 
 # Submit
 
-Please upload your `quadratic.cpp` and `netwon.cpp` files to `myCourses > Assignments > HW2`. Do not submit *.docx, *.pdf, *.txt, or *.zip file. 
+Please upload your `quadratic.cpp` and `netwon.cpp` files to `myCourses > Assignments > HW2`. Do not submit *.docx, *.pdf, *.txt, or *.zip file. Do not change the function names.
