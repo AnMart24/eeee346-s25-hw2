@@ -8,7 +8,7 @@
  * @param a - coefficient a
  * @param b - coefficient b
  * @param c - coefficient c
- * @return y(x) = ax^2 + bx +c
+ * @return y(x) = ax^2 + bx + c
  */
 double myQuad(double x, double a, double b, double c);
 
