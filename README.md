@@ -1,6 +1,6 @@
 # Introduction
 
-In this homework, you will be implementing Newton's method, also known as the Newton-Raphson method, to find roots of equations. Note that this homework only uses quadratic equations.
+In this homework, you will be implementing Newton's method, also known as the Newton-Raphson method, to find roots of equations. Note that this homework only uses quadratic equations. You will practice calling functions, using a loop, and writing code to solve a specific problem through this homework assignment.
 
 # Background: Newton's Method
 
